@@ -54,3 +54,16 @@ Reinforcment seems the most promising as I don't have access to a large data set
 
 3. **Milestone 4**: UI design
    - Task 1: Design ui to visualize games
+
+   ## Roadmap
+- **Implement basic GUI** : GUI capable of rendering a game state.
+- **Implement basic game engine** : Basic game engine capable of managing tiles and player turns
+- **Integrate game engine with GUI** : GUI that renders a game being run
+- **Develop game engine** : Game engine with rules and discard mechanics
+- **Implement basic AI** : Basic AI capable of choosing tiles
+- **Integrate AI with game engine** : Game engine being played by AI players, rendered by a GUI
+- **Refine game engine** : Full game functionality implemented
+- **Develop AI** : Implemented heuristic decision-making
+- **Compare & Test AI** : Identified the performance of the AI
+- **Optimize AI** : Optimized AI based on testing
+- **Refine GUI** : Polished render of game state
